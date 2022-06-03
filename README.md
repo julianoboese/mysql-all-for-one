@@ -14,7 +14,7 @@ Criação de queries em SQL utilizando comandos DDL, DML e DQL.
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- SQL
+- MySQL
 
 ## 📌 Habilidades
 
